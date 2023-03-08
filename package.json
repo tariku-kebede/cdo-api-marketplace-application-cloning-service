@@ -1,0 +1,12 @@
+{
+  "name": "cdo-api-marketplace-application-cloning-service",
+  "version": "1.0.0",
+  "description": "A node backend to support the api marketplace applicaiton clonning functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tariku Kebede",
+  "license": "ISC"
+}
